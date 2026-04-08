@@ -1,0 +1,1072 @@
+[
+  {
+    "timestamp": "2026-04-08T15:11:17.245332+05:30",
+    "device_name": "D0045",
+    "device_id": "D0045",
+    "urgency": "CRITICAL",
+    "score": 1.0,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.248584+05:30",
+    "device_name": "D0050",
+    "device_id": "D0050",
+    "urgency": "CRITICAL",
+    "score": 1.0,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.252404+05:30",
+    "device_name": "D0149",
+    "device_id": "D0149",
+    "urgency": "CRITICAL",
+    "score": 1.0,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.254115+05:30",
+    "device_name": "D0005",
+    "device_id": "D0005",
+    "urgency": "CRITICAL",
+    "score": 1.0,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.255805+05:30",
+    "device_name": "D0166",
+    "device_id": "D0166",
+    "urgency": "CRITICAL",
+    "score": 1.0,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.257243+05:30",
+    "device_name": "D0266",
+    "device_id": "D0266",
+    "urgency": "CRITICAL",
+    "score": 1.0,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.259499+05:30",
+    "device_name": "D0079",
+    "device_id": "D0079",
+    "urgency": "CRITICAL",
+    "score": 1.0,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.261345+05:30",
+    "device_name": "D0250",
+    "device_id": "D0250",
+    "urgency": "CRITICAL",
+    "score": 1.0,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.263855+05:30",
+    "device_name": "D0142",
+    "device_id": "D0142",
+    "urgency": "CRITICAL",
+    "score": 1.0,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.265837+05:30",
+    "device_name": "D0168",
+    "device_id": "D0168",
+    "urgency": "CRITICAL",
+    "score": 1.0,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.267960+05:30",
+    "device_name": "D0038",
+    "device_id": "D0038",
+    "urgency": "CRITICAL",
+    "score": 0.999,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.269621+05:30",
+    "device_name": "D0113",
+    "device_id": "D0113",
+    "urgency": "CRITICAL",
+    "score": 0.998,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.271709+05:30",
+    "device_name": "D0046",
+    "device_id": "D0046",
+    "urgency": "CRITICAL",
+    "score": 0.993,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.273439+05:30",
+    "device_name": "D0275",
+    "device_id": "D0275",
+    "urgency": "CRITICAL",
+    "score": 0.982,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.275475+05:30",
+    "device_name": "D0260",
+    "device_id": "D0260",
+    "urgency": "CRITICAL",
+    "score": 0.982,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.277242+05:30",
+    "device_name": "D0131",
+    "device_id": "D0131",
+    "urgency": "CRITICAL",
+    "score": 0.974,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.280029+05:30",
+    "device_name": "D0141",
+    "device_id": "D0141",
+    "urgency": "CRITICAL",
+    "score": 0.974,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.281909+05:30",
+    "device_name": "D0175",
+    "device_id": "D0175",
+    "urgency": "CRITICAL",
+    "score": 0.971,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.282906+05:30",
+    "device_name": "D0262",
+    "device_id": "D0262",
+    "urgency": "CRITICAL",
+    "score": 0.971,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.284779+05:30",
+    "device_name": "D0225",
+    "device_id": "D0225",
+    "urgency": "CRITICAL",
+    "score": 0.966,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.286702+05:30",
+    "device_name": "D0039",
+    "device_id": "D0039",
+    "urgency": "CRITICAL",
+    "score": 0.949,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.290787+05:30",
+    "device_name": "D0235",
+    "device_id": "D0235",
+    "urgency": "CRITICAL",
+    "score": 0.948,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.292725+05:30",
+    "device_name": "D0220",
+    "device_id": "D0220",
+    "urgency": "CRITICAL",
+    "score": 0.946,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.294426+05:30",
+    "device_name": "D0051",
+    "device_id": "D0051",
+    "urgency": "CRITICAL",
+    "score": 0.946,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.296402+05:30",
+    "device_name": "D0109",
+    "device_id": "D0109",
+    "urgency": "CRITICAL",
+    "score": 0.944,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.298503+05:30",
+    "device_name": "D0210",
+    "device_id": "D0210",
+    "urgency": "CRITICAL",
+    "score": 0.942,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.300700+05:30",
+    "device_name": "D0226",
+    "device_id": "D0226",
+    "urgency": "CRITICAL",
+    "score": 0.935,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.302474+05:30",
+    "device_name": "D0472",
+    "device_id": "D0472",
+    "urgency": "CRITICAL",
+    "score": 0.933,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.304566+05:30",
+    "device_name": "D0276",
+    "device_id": "D0276",
+    "urgency": "CRITICAL",
+    "score": 0.931,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.306662+05:30",
+    "device_name": "D0100",
+    "device_id": "D0100",
+    "urgency": "CRITICAL",
+    "score": 0.922,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.308582+05:30",
+    "device_name": "D0177",
+    "device_id": "D0177",
+    "urgency": "CRITICAL",
+    "score": 0.921,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.310354+05:30",
+    "device_name": "D0298",
+    "device_id": "D0298",
+    "urgency": "CRITICAL",
+    "score": 0.919,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.312368+05:30",
+    "device_name": "D0070",
+    "device_id": "D0070",
+    "urgency": "CRITICAL",
+    "score": 0.919,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.314133+05:30",
+    "device_name": "D0217",
+    "device_id": "D0217",
+    "urgency": "CRITICAL",
+    "score": 0.917,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.316622+05:30",
+    "device_name": "D0265",
+    "device_id": "D0265",
+    "urgency": "CRITICAL",
+    "score": 0.916,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.318691+05:30",
+    "device_name": "D0294",
+    "device_id": "D0294",
+    "urgency": "CRITICAL",
+    "score": 0.911,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.320970+05:30",
+    "device_name": "D0017",
+    "device_id": "D0017",
+    "urgency": "CRITICAL",
+    "score": 0.911,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.323062+05:30",
+    "device_name": "D0106",
+    "device_id": "D0106",
+    "urgency": "CRITICAL",
+    "score": 0.91,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.325185+05:30",
+    "device_name": "D0343",
+    "device_id": "D0343",
+    "urgency": "CRITICAL",
+    "score": 0.909,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.327151+05:30",
+    "device_name": "D0074",
+    "device_id": "D0074",
+    "urgency": "CRITICAL",
+    "score": 0.908,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.329141+05:30",
+    "device_name": "D0213",
+    "device_id": "D0213",
+    "urgency": "CRITICAL",
+    "score": 0.907,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.330885+05:30",
+    "device_name": "D0289",
+    "device_id": "D0289",
+    "urgency": "CRITICAL",
+    "score": 0.906,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.332010+05:30",
+    "device_name": "D0293",
+    "device_id": "D0293",
+    "urgency": "CRITICAL",
+    "score": 0.901,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.334341+05:30",
+    "device_name": "D0218",
+    "device_id": "D0218",
+    "urgency": "CRITICAL",
+    "score": 0.898,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.335654+05:30",
+    "device_name": "D0263",
+    "device_id": "D0263",
+    "urgency": "CRITICAL",
+    "score": 0.893,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.338628+05:30",
+    "device_name": "D0110",
+    "device_id": "D0110",
+    "urgency": "CRITICAL",
+    "score": 0.891,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.341256+05:30",
+    "device_name": "D0284",
+    "device_id": "D0284",
+    "urgency": "CRITICAL",
+    "score": 0.886,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.343398+05:30",
+    "device_name": "D0410",
+    "device_id": "D0410",
+    "urgency": "CRITICAL",
+    "score": 0.886,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.345340+05:30",
+    "device_name": "D0244",
+    "device_id": "D0244",
+    "urgency": "CRITICAL",
+    "score": 0.881,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.347555+05:30",
+    "device_name": "D0303",
+    "device_id": "D0303",
+    "urgency": "CRITICAL",
+    "score": 0.88,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.349643+05:30",
+    "device_name": "D0081",
+    "device_id": "D0081",
+    "urgency": "CRITICAL",
+    "score": 0.88,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.352950+05:30",
+    "device_name": "D0297",
+    "device_id": "D0297",
+    "urgency": "CRITICAL",
+    "score": 0.878,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.355369+05:30",
+    "device_name": "D0201",
+    "device_id": "D0201",
+    "urgency": "CRITICAL",
+    "score": 0.875,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.357692+05:30",
+    "device_name": "D0270",
+    "device_id": "D0270",
+    "urgency": "CRITICAL",
+    "score": 0.875,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.360121+05:30",
+    "device_name": "D0419",
+    "device_id": "D0419",
+    "urgency": "CRITICAL",
+    "score": 0.874,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.362715+05:30",
+    "device_name": "D0286",
+    "device_id": "D0286",
+    "urgency": "CRITICAL",
+    "score": 0.873,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.365112+05:30",
+    "device_name": "D0277",
+    "device_id": "D0277",
+    "urgency": "CRITICAL",
+    "score": 0.872,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.368140+05:30",
+    "device_name": "D0305",
+    "device_id": "D0305",
+    "urgency": "CRITICAL",
+    "score": 0.869,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.371042+05:30",
+    "device_name": "D0093",
+    "device_id": "D0093",
+    "urgency": "CRITICAL",
+    "score": 0.869,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.373151+05:30",
+    "device_name": "D0468",
+    "device_id": "D0468",
+    "urgency": "CRITICAL",
+    "score": 0.867,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.375616+05:30",
+    "device_name": "D0102",
+    "device_id": "D0102",
+    "urgency": "CRITICAL",
+    "score": 0.861,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.378559+05:30",
+    "device_name": "D0135",
+    "device_id": "D0135",
+    "urgency": "CRITICAL",
+    "score": 0.86,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.381045+05:30",
+    "device_name": "D0382",
+    "device_id": "D0382",
+    "urgency": "CRITICAL",
+    "score": 0.853,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.383399+05:30",
+    "device_name": "D0389",
+    "device_id": "D0389",
+    "urgency": "CRITICAL",
+    "score": 0.849,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.386211+05:30",
+    "device_name": "D0441",
+    "device_id": "D0441",
+    "urgency": "CRITICAL",
+    "score": 0.842,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.388635+05:30",
+    "device_name": "D0404",
+    "device_id": "D0404",
+    "urgency": "CRITICAL",
+    "score": 0.842,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.391675+05:30",
+    "device_name": "D0420",
+    "device_id": "D0420",
+    "urgency": "CRITICAL",
+    "score": 0.842,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.394744+05:30",
+    "device_name": "D0377",
+    "device_id": "D0377",
+    "urgency": "CRITICAL",
+    "score": 0.841,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.397523+05:30",
+    "device_name": "D0066",
+    "device_id": "D0066",
+    "urgency": "CRITICAL",
+    "score": 0.84,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.400448+05:30",
+    "device_name": "D0333",
+    "device_id": "D0333",
+    "urgency": "CRITICAL",
+    "score": 0.839,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.402952+05:30",
+    "device_name": "D0349",
+    "device_id": "D0349",
+    "urgency": "CRITICAL",
+    "score": 0.836,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.405100+05:30",
+    "device_name": "D0342",
+    "device_id": "D0342",
+    "urgency": "CRITICAL",
+    "score": 0.832,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.407620+05:30",
+    "device_name": "D0312",
+    "device_id": "D0312",
+    "urgency": "CRITICAL",
+    "score": 0.825,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.410545+05:30",
+    "device_name": "D0423",
+    "device_id": "D0423",
+    "urgency": "CRITICAL",
+    "score": 0.824,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.413505+05:30",
+    "device_name": "D0355",
+    "device_id": "D0355",
+    "urgency": "CRITICAL",
+    "score": 0.823,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.415992+05:30",
+    "device_name": "D0366",
+    "device_id": "D0366",
+    "urgency": "CRITICAL",
+    "score": 0.819,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.418812+05:30",
+    "device_name": "D0322",
+    "device_id": "D0322",
+    "urgency": "CRITICAL",
+    "score": 0.815,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.421702+05:30",
+    "device_name": "D0399",
+    "device_id": "D0399",
+    "urgency": "CRITICAL",
+    "score": 0.814,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.425506+05:30",
+    "device_name": "D0462",
+    "device_id": "D0462",
+    "urgency": "CRITICAL",
+    "score": 0.803,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.427765+05:30",
+    "device_name": "D0354",
+    "device_id": "D0354",
+    "urgency": "CRITICAL",
+    "score": 0.803,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.430140+05:30",
+    "device_name": "D0383",
+    "device_id": "D0383",
+    "urgency": "CRITICAL",
+    "score": 0.802,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.432691+05:30",
+    "device_name": "D0247",
+    "device_id": "D0247",
+    "urgency": "CRITICAL",
+    "score": 0.802,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.435369+05:30",
+    "device_name": "D0348",
+    "device_id": "D0348",
+    "urgency": "CRITICAL",
+    "score": 0.8,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.437897+05:30",
+    "device_name": "D0416",
+    "device_id": "D0416",
+    "urgency": "CRITICAL",
+    "score": 0.786,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.440663+05:30",
+    "device_name": "D0473",
+    "device_id": "D0473",
+    "urgency": "CRITICAL",
+    "score": 0.784,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.443777+05:30",
+    "device_name": "D0064",
+    "device_id": "D0064",
+    "urgency": "CRITICAL",
+    "score": 0.783,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.446529+05:30",
+    "device_name": "D0207",
+    "device_id": "D0207",
+    "urgency": "CRITICAL",
+    "score": 0.78,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.449603+05:30",
+    "device_name": "D0097",
+    "device_id": "D0097",
+    "urgency": "CRITICAL",
+    "score": 0.776,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.452681+05:30",
+    "device_name": "D0268",
+    "device_id": "D0268",
+    "urgency": "CRITICAL",
+    "score": 0.771,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.455606+05:30",
+    "device_name": "D0198",
+    "device_id": "D0198",
+    "urgency": "CRITICAL",
+    "score": 0.759,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.458394+05:30",
+    "device_name": "D0130",
+    "device_id": "D0130",
+    "urgency": "CRITICAL",
+    "score": 0.755,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.461496+05:30",
+    "device_name": "D0204",
+    "device_id": "D0204",
+    "urgency": "HIGH",
+    "score": 0.743,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.463852+05:30",
+    "device_name": "D0122",
+    "device_id": "D0122",
+    "urgency": "HIGH",
+    "score": 0.74,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.466031+05:30",
+    "device_name": "D0101",
+    "device_id": "D0101",
+    "urgency": "HIGH",
+    "score": 0.739,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.469044+05:30",
+    "device_name": "D0456",
+    "device_id": "D0456",
+    "urgency": "HIGH",
+    "score": 0.732,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.472462+05:30",
+    "device_name": "D0327",
+    "device_id": "D0327",
+    "urgency": "HIGH",
+    "score": 0.732,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.475489+05:30",
+    "device_name": "D0325",
+    "device_id": "D0325",
+    "urgency": "HIGH",
+    "score": 0.73,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.478292+05:30",
+    "device_name": "D0387",
+    "device_id": "D0387",
+    "urgency": "HIGH",
+    "score": 0.729,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.480995+05:30",
+    "device_name": "D0043",
+    "device_id": "D0043",
+    "urgency": "CRITICAL",
+    "score": 0.721,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.483547+05:30",
+    "device_name": "D0465",
+    "device_id": "D0465",
+    "urgency": "HIGH",
+    "score": 0.719,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.486505+05:30",
+    "device_name": "D0360",
+    "device_id": "D0360",
+    "urgency": "HIGH",
+    "score": 0.719,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.489238+05:30",
+    "device_name": "D0311",
+    "device_id": "D0311",
+    "urgency": "HIGH",
+    "score": 0.713,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.492149+05:30",
+    "device_name": "D0412",
+    "device_id": "D0412",
+    "urgency": "HIGH",
+    "score": 0.71,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.495161+05:30",
+    "device_name": "D0345",
+    "device_id": "D0345",
+    "urgency": "HIGH",
+    "score": 0.707,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.498348+05:30",
+    "device_name": "D0329",
+    "device_id": "D0329",
+    "urgency": "HIGH",
+    "score": 0.691,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.501107+05:30",
+    "device_name": "D0466",
+    "device_id": "D0466",
+    "urgency": "HIGH",
+    "score": 0.654,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  },
+  {
+    "timestamp": "2026-04-08T15:11:17.504248+05:30",
+    "device_name": "D0336",
+    "device_id": "D0336",
+    "urgency": "HIGH",
+    "score": 0.623,
+    "message": "Auto-detected risk device",
+    "channel": "auto",
+    "status": "triggered"
+  }
+]
